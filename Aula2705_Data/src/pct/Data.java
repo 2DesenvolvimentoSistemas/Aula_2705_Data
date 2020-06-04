@@ -49,5 +49,10 @@ public class Data {
     public int getAno() {
         return ano;
     }
+
+    public Data() {
+    }
+    
+    
     
 }
